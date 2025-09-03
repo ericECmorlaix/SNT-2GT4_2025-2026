@@ -1342,7 +1342,7 @@ Correction DM HTML/CSS
 ***
 
 
-### Le 04/09
+### Le 05/09
 
 === "CONTENU DE SÉANCE"
 
