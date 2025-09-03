@@ -1,0 +1,137 @@
+# Informations du site 
+site_name: SNT-2GT4_2025-2026
+site_description: Sciences Numériques et Technologie pour les secondes 2GT4 au lycée Notre Dame du Mur de MORLAIX
+site_author: "Eric MADEC" 
+copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2025 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+site_url: https://ericecmorlaix.github.io/SNT-2GT4_2025-2026/
+
+# Dépot du projet 
+repo_name: 'SNT-2GT4_2025-2026' 
+repo_url: https://github.com/ericECmorlaix/SNT-2GT4_2025-2026 # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
+edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
+# Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
+# (edit => édition avec connexion | blob, tree => lecture anonyme)
+
+# Structure des dossiers :
+docs_dir: docs
+
+# Menu de navigation
+nav: 
+  - Accueil : index.md
+  # - Web : ./Web/index.md
+  # - Réseaux Sociaux : ./RS/index.md
+  # - Données structurées : ./DS/index.md
+  # - Photo numérique : ./PN/index.md
+  - Ressources : ressources.md
+    
+    # - Obsidian : https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/
+    
+    # - Check-list de compétences utiles en SNT : competences_SNT.md 
+    
+    
+    
+  # - Présentation NSI : http://si.lycee.ecmorlaix.fr/nsi
+  
+    # 
+    #     - Juges en lignes : juges_en_ligne.md
+        
+       
+       
+    
+
+# Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
+theme:
+    name: material
+    # custom_dir: overrides
+    font: false  # RGPD ; pas de fonte Google
+    language: fr # français
+    logo: images/LogoIO.png 
+    favicon: images/LogoIO-lime.png
+
+    # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    palette: 
+      - scheme: default # nom du thème clair
+        primary: lime # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: cyan # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        toggle: # définition du bouton pour switcher de palette
+          icon: material/weather-sunny # apparence
+          name: Basculer en mode sombre # message
+      - scheme: slate # nom du thème sombre
+        primary: cyan
+        accent: lime
+        toggle:
+          icon: material/weather-night
+          name: Basculer en mode clair
+    # Configuration du comportement de la navigation, cf : https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+    features: 
+        - navigation.instant # active XHR https://fr.wikipedia.org/wiki/XMLHttpRequest
+        - navigation.tabs # Menu de navigation horizontal sous l'en-tête sauf sur appareil mobile
+        # - navigation.tabs.sticky # Menu de navigation horizontal collant
+        - navigation.top # bouton pour remonter tout en haut de la page
+        - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
+        - header.autohide # masquage automatique de l'en tête du site lorsque l'on descend dans la page
+
+
+markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+    # extensions de la bibliothèque markdown standard
+    - abbr # infobulles sur abbréviations 
+    - meta # Métadonnées
+    - md_in_html
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
+    - admonition                    # Blocs colorés  !!! info "ma remarque"
+    - toc: # Table des matières
+        permalink: ⚓︎
+        toc_depth: 3
+    # extensions de python-markdown https://facelessuser.github.io/pymdown-extensions/
+    - pymdownx.details              #   qui peuvent se plier/déplier.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight            # Coloration syntaxique du code
+    - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
+        custom_checkbox:    false   #   avec cases d'origine
+        clickable_checkbox: true    #   et cliquables.
+    - pymdownx.tabbed:              # Onglets coulissants.  === "Onglet"
+        alternate_style: true       # Ajout depuis la version 8
+    - pymdownx.superfences          # Imbrication de blocs.
+    - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+        separator: "\uff0b"
+    - pymdownx.emoji:               # Émojis  :boom:
+        emoji_index:     !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.arithmatex:  # Formules en LaTeX 
+        generic: true
+    
+  
+
+plugins:
+  - search # Inclure une barre de recherche
+  # - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+  #     kernel_name: python3
+  #     execute: False
+  #     include_source: True
+
+
+extra:
+  social: 
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:eric.madec@ecmorlaix.fr
+      name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
+    - icon: fontawesome/brands/github
+      link: https://github.com/ericECmorlaix/SNT-2GT4_2025-2026
+      name: dépôt github
+    - icon: fontawesome/solid/school
+      link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
+      name: Lycée Notre Dame du Mur
+
+
+extra_javascript:
+  - javascripts/config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
