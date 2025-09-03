@@ -68,7 +68,7 @@
 
     - Le thème de l'informatique embarquée et des objets connectés (IOT : internet of things) étant également abordé au cours de l'année par certains en enseignement de Sciences de l'Ingénieur, ils nous en présenteront une synthèse à la fin.
 
-    - L'initiation à la programmation en Python et Internet seront traités transversalement aux autres thèmes au fil de l'eau.
+    - L'initiation à la programmation en Python, l'Internet, ainsi que l'IA, seront traités transversalement aux autres thèmes au fil de l'eau.
 
 ??? warning "Evolution de l’enseignement SNT :"
 
