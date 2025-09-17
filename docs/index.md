@@ -1325,6 +1325,25 @@ Correction DM HTML/CSS
 -->
 ***
 
+### Le 18/09
+
+=== "CONTENU DE SÉANCE"
+
+    - *Si ce n'est pas déjà fait*, **créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `WZPG4WYFK` ;
+    
+    - **Finir** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le travail demandé sur le notebook [Capytale n°`9115-7076159`](https://capytale2.ac-paris.fr/web/c/9115-7076159){target=_blank} ;
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+***
+
 ### Le 12/09
 
 === "CONTENU DE SÉANCE"
