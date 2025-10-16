@@ -1239,13 +1239,13 @@ Correction DM HTML/CSS
 
     - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
 
-
+-->
 ***
-### Le 14/10
+### Le 16/10
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** et **rendre** les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web){target=_blank} ;
+    - **Finir** et les activités demandées dans le paragraphe [Introduction au Web](./Web/#introduction-au-web){target=_blank} ;
 
     - **Faire** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
     
@@ -1254,13 +1254,14 @@ Correction DM HTML/CSS
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** et **rendre** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} pour le 06/11/2024 ;
+    - **Finir** et **rendre** [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} pour le 07/11 ;
     
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
 
-    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"}
+    > ==**Rédiger** progressivement un [notebook jupyter sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
--->
+
 ***
 ### Les 02 et 03/10
 
