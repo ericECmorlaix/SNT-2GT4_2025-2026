@@ -1207,39 +1207,39 @@ Correction DM HTML/CSS
 
 === "CONTENU DE SÉANCE"
 
+    
+
+    
+
+    - **Mesurer** vos compétences sur PIX dans les domaines [du Web parcours `XHBQVH781`](https://app.pix.fr/campagnes/XHBQVH781){target="_blank"} et [de l'Internet parcours `GMHLWV945`](https://app.pix.fr/campagnes/GMHLWV945){target="_blank"} ;    
+
+
+-->
+***
+### Les 07 et 13/11
+
+=== "CONTENU DE SÉANCE"
+
     - Retour sur [le TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
 
     - Bilan des [notions essentielles du Web](https://ericecmorlaix.github.io/SNT-2GT4_2025-2026/Web/#quelques-notions-essentielles-a-retenir){target="_blank"} ;
 
-    - **Mesurer** vos compétences sur PIX dans les domaines [du Web parcours `XHBQVH781`](https://app.pix.fr/campagnes/XHBQVH781){target="_blank"} et [de l'Internet parcours `GMHLWV945`](https://app.pix.fr/campagnes/GMHLWV945){target="_blank"} ;    
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Réviser** le thème du Web : **Lire** [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et **retenir** [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM le 20/11.
-    
-    - **Finir** l'étape 5 du [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} et **rendre** votre travail ;
-    
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail ;
-
-    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
-
-***
-### Le 06/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
-
     - **Poursuivre** les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank},  **enregistrer** une copie de votre travail sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace de votre travail...
+
+    - Pour les plus avancés, [**publier** votre site Web](./Web/github.md){target="_blank"} ;
   
 
 === "TRAVAIL À FAIRE"
 
     - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} ;
 
+    - **Finir** l'étape 5 du [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} et **rendre** votre travail ;
+
+    - **Réviser** le thème du Web : **Lire** [Le cours](https://www.lelivrescolaire.fr/page/30330066){target="_blank"} et **retenir** [l'essentiel](https://www.lelivrescolaire.fr/page/30330018){target="_blank"} à savoir pour une évaluation par QCM le 14/11.
+    
     - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
 
--->
+
 ***
 ### Le 16/10
 
