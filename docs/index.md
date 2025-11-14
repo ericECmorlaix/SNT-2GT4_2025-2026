@@ -1204,6 +1204,27 @@ Correction DM HTML/CSS
 
 
 -->
+
+***
+### Le 14/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM sur le thème du WEB ;
+
+    - **Rendre** le [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
+
+    - [**Publier** votre site Web sur GitHub](./Web/github.md){target="_blank"} ;
+  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+
+    - **Prolonger** votre [initiation aux langages HTML/CSS sur la Khanacademy](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et aller plus loin avec [W3schools](https://www.w3schools.com/html/default.asp){target="_blank"} ;
+
+    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ; 
+
 ***
 ### Les 07 et 13/11
 
