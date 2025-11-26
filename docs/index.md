@@ -1206,6 +1206,32 @@ Correction DM HTML/CSS
 -->
 
 ***
+### Le 27/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Bilan du T1, correction du QCM sur le thème du WEB et du [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} => cf les sites publiés : [La Voile en Bretagne](https://goulven-b.github.io/breizh.sailing/){target=_blank}, [Cap vers le ciel](https://lemenn-gabriel.github.io/CapVers-LeCiel/){target=_blank}, [La Santé](https://ewentgy.github.io/Sant-/){target=_blank}, [Le souffle du bleu : l'art de plonger](https://goumainadrien9-jpg.github.io/L-art-de-plonger/){target=_blank}, ... ;
+    
+    - **Exercer** vos compétences de programmation en Python avec [CodEx sur Capytale](https://capytale2.ac-paris.fr/web/c/dd1f-8095090){target="_blank"} et **conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+
+    - **Compléter** votre initiation à la programmation Python sur :
+        - [Algorea](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0/task/task){target="_blank"} ;
+        - CodEx : [Créer une image](https://codex.forge.apps.education.fr/en_travaux/creer_image/){target="_blank"}, [Alien (1.1)](https://codex.forge.apps.education.fr/en_travaux/alien1.1/){target="_blank"}, [Alien (2.1)](https://codex.forge.apps.education.fr/en_travaux/alien2.1/){target="_blank"}, [Alien (3.1)](https://codex.forge.apps.education.fr/en_travaux/alien3.1/){target="_blank"}, [Alien (8) - Instructions imbriquées](https://codex.forge.apps.education.fr/en_travaux/alien8/){target="_blank"} ;
+        - [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
+        - et aller plus loin avec [W3schools](https://www.w3schools.com/python/default.asp){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+    - **Prolonger** votre [initiation aux langages HTML/CSS sur la Khanacademy](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et aller plus loin avec [W3schools](https://www.w3schools.com/html/default.asp){target="_blank"} ;
+    - [**Publier** votre site Web sur GitHub](./Web/github.md){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages HTML-CSS sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+
+
+***
 ### Le 21/11
 
 === "CONTENU DE SÉANCE"
