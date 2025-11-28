@@ -1206,7 +1206,7 @@ Correction DM HTML/CSS
 -->
 
 ***
-### Le 27/11
+### Les 27 et 28/11
 
 === "CONTENU DE SÉANCE"
 
