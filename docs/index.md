@@ -1125,9 +1125,7 @@ Correction DM HTML/CSS
 
     - **Rendre**,  avant le 25/12/2024, le notebook de [mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
 
-    - **Faire**, pour le 06/01/2025 le [devoir pratique de HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
-
-    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+ 
 
 ***
 ### Les 09 et 11/12
@@ -1137,27 +1135,8 @@ Correction DM HTML/CSS
     - Synthèse de [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} 
      et de [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
     
-=== "TRAVAIL À FAIRE"
-    
-    - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
 
-    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
-
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
-
-    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> **Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...
-
-    > **enregistrer** une copie de vos travaux sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace...
-
-
-
-    
-***
-### Les 03 et 04/12
-
-=== "CONTENU DE SÉANCE"
-
-    - [ Se perfectionner en Python avec **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+   
 
 ***
 ### Le 27/11
@@ -1170,40 +1149,35 @@ Correction DM HTML/CSS
     
     - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
 
-    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
+  
 
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
-
-    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> **Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...
-
-    > **enregistrer** une copie de vos travaux sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace...
-
-***
-### Le 25/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction du QCM Web ;
-
-    - Finalisation des travaux du trimestre :
-
-        - [TP Créer une page Web sur Capytale n° c691-4301347](https://capytale2.ac-paris.fr/web/c/c691-4301347){target=_blank} ;
-        - [Bilan d'activités FuturCoder sur Capytale n° e089-4037400](https://capytale2.ac-paris.fr/web/c/e089-4037400){target=_blank} ;
-
-    - **Mesurer** vos compétences sur PIX dans les domaines [du Web parcours `XHBQVH781`](https://app.pix.fr/campagnes/XHBQVH781){target="_blank"} et [de l'Internet parcours `GMHLWV945`](https://app.pix.fr/campagnes/GMHLWV945){target="_blank"} ;
-
-    - [**Publier** un site sur le Web](./Web/github){target="_blank"} ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et en parallèle **copier/coller** vos codes dans des cellules MarkDown d'un [Notebook Jupyter sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
-
-    - **Prolonger** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} -> **Rédiger** progressivement un [notebook jupyter sur Capytale n°ba7a-3864065](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...
-
-    > **enregistrer** une copie de vos travaux sur votre iPad dans le dossier de l'application **Carnets** afin d'y **conserver** une trace...
 
 
 -->
+
+***
+### Le 05/12
+
+=== "CONTENU DE SÉANCE"
+
+    - [ Se perfectionner en Python avec **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
+
+    - **Exercer** vos compétences de programmation en Python avec [CodEx sur Capytale](https://capytale2.ac-paris.fr/web/c/dd1f-8095090){target="_blank"} et **conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot niv_01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+38+56+9+43+35+3+4+70+33+8+27+71+75+66+72+1000&needTuto=true&codeTracker=true){target=_blank} ;
+
+    - **Compléter** votre initiation à la programmation Python sur :
+        - [Algorea](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0/task/task){target="_blank"} ;
+        - CodEx : [Créer une image](https://codex.forge.apps.education.fr/en_travaux/creer_image/){target="_blank"}, [Alien (1.1)](https://codex.forge.apps.education.fr/en_travaux/alien1.1/){target="_blank"}, [Alien (2.1)](https://codex.forge.apps.education.fr/en_travaux/alien2.1/){target="_blank"}, [Alien (3.1)](https://codex.forge.apps.education.fr/en_travaux/alien3.1/){target="_blank"}, [Alien (8) - Instructions imbriquées](https://codex.forge.apps.education.fr/en_travaux/alien8/){target="_blank"} ;
+        - [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
+        - et aller plus loin avec [W3schools](https://www.w3schools.com/python/default.asp){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+    - **Prolonger** votre [initiation aux langages HTML/CSS sur la Khanacademy](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et aller plus loin avec [W3schools](https://www.w3schools.com/html/default.asp){target="_blank"} ;
+    - [**Publier** votre site Web sur GitHub](./Web/github.md){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages HTML-CSS sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
 
 ***
 ### Les 27 et 28/11
