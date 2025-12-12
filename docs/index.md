@@ -1138,17 +1138,6 @@ Correction DM HTML/CSS
 
    
 
-***
-### Le 27/11
-
-=== "CONTENU DE SÉANCE"
-
-    - [ Introduction aux fonctions Python pour dessiner avec Turtle sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
-    
-=== "TRAVAIL À FAIRE"
-    
-    - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
-
   
 
 
@@ -1156,13 +1145,17 @@ Correction DM HTML/CSS
 -->
 
 ***
-### Le 05/12
+### Du 05/12
 
 === "CONTENU DE SÉANCE"
 
     - [ Se perfectionner en Python avec **Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} ;
 
     - **Exercer** vos compétences de programmation en Python avec [CodEx sur Capytale](https://capytale2.ac-paris.fr/web/c/dd1f-8095090){target="_blank"} et **conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+     - [ Introduction aux fonctions Python pour dessiner avec Turtle sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
+
+     - [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
