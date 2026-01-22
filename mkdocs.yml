@@ -18,9 +18,9 @@ docs_dir: docs
 # Menu de navigation
 nav: 
   - Accueil : index.md
-  # - Web : ./Web/index.md
+  - Web : ./Web/index.md
   # - Réseaux Sociaux : ./RS/index.md
-  # - Données structurées : ./DS/index.md
+  - Données structurées : ./DS/index.md
   # - Photo numérique : ./PN/index.md
   - Ressources : ressources.md
     
