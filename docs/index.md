@@ -1135,8 +1135,36 @@ Correction DM HTML/CSS
     - Synthèse de [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank} 
      et de [**Turtle** sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} ;
     
-
 -->
+***
+### Du 05/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** votre découverte de la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `4xrbqtn3` pour l'activité n°1 ;
+        - `d4hy533r` pour l'activité n°2 ; 
+        - `a9tmdc89` pour l'activité n°3 ;
+
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `MWEAGK692` sur PIX](https://app.pix.fr/campagnes/MWEAGK692?){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+       
+    - **Se préparer** pour une évaluation sur les [données structurées](./DS/#bilan) programmée le 13/02 ;
+
+    - **Finir** et **rendre** : [**Pyrates** sur Capytale n° b5af-4841135](https://capytale2.ac-paris.fr/web/c/b5af-4841135){target=_blank}, [CodEx sur Capytale](https://capytale2.ac-paris.fr/web/c/dd1f-8095090){target="_blank"}, [ Introduction aux fonctions Python pour dessiner avec Turtle sur Capytale n° f291-4755744](https://capytale2.ac-paris.fr/web/c/f291-4755744){target=_blank} et [ Mise en application des fonctions Python pour décorer un sapin avec Turtle sur Capytale n° 6f46-4755885](https://capytale2.ac-paris.fr/web/c/6f46-4755885){target=_blank} ;
+
+    - **Compléter** votre initiation à la programmation Python sur :
+        - [Algorea](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0/task/task){target="_blank"} ;
+        - CodEx : [Créer une image](https://codex.forge.apps.education.fr/en_travaux/creer_image/){target="_blank"}, [Alien (1.1)](https://codex.forge.apps.education.fr/en_travaux/alien1.1/){target="_blank"}, [Alien (2.1)](https://codex.forge.apps.education.fr/en_travaux/alien2.1/){target="_blank"}, [Alien (3.1)](https://codex.forge.apps.education.fr/en_travaux/alien3.1/){target="_blank"}, [Alien (8) - Instructions imbriquées](https://codex.forge.apps.education.fr/en_travaux/alien8/){target="_blank"} ;
+        - [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
+        - et aller plus loin avec [W3schools](https://www.w3schools.com/python/default.asp){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+    - **Prolonger** votre [initiation aux langages HTML/CSS sur la Khanacademy](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et aller plus loin avec [W3schools](https://www.w3schools.com/html/default.asp){target="_blank"} ;
+    - [**Publier** votre site Web sur GitHub](./Web/github.md){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages HTML-CSS sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+
 ***
 ### Le 22/01
 

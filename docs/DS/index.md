@@ -16,13 +16,13 @@ Les structurer correctement garantit que l’on puisse les exploiter facilement 
 **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
 
 - `4xrbqtn3` pour l'activité n°1 ;
-<!-- - `tnhmftky` pour l'activité n°2 ; 
-- `8qmuiun9` pour l'activité n°3 ;
+- `d4hy533r` pour l'activité n°2 ; 
+- `a9tmdc89` pour l'activité n°3 ;
 
- 
+<!-- 
 OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur traitement](https://parcours.algorea.org/fr/a/snt-donnees;a=0){target=_blank}
 
- 
+  -->
 ???- success "Solutions"
 
     === "n°3_1 - Les régions et leur capitale"
@@ -40,7 +40,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_grandes_villes = loadTable("grandes_villes")
         displayTableOnMap(table_grandes_villes,"ville","longitude","latitude")
         ```
-    
+<!--    
     === "n°3_3 - Les fleuves"
 
         ```python
@@ -272,7 +272,8 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         Que désigne le descripteur `Hex` dans la table [ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange) présentée ci-dessus ?
     === "Réponse"
         <font color="blue">...</font>
- 
+
+ -->
 ## Mesure PIX
 
 **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `KKFBSZ615` sur PIX](https://app.pix.fr/campagnes/KKFBSZ615){target="_blank"} ;
@@ -284,4 +285,4 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
 
 [Le cours sur www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/31098375){target="_blank"}... 
 
- -->
+
