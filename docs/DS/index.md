@@ -276,7 +276,7 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
  -->
 ## Mesure PIX
 
-**Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `KKFBSZ615` sur PIX](https://app.pix.fr/campagnes/KKFBSZ615){target="_blank"} ;
+**Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `MWEAGK692` sur PIX](https://app.pix.fr/campagnes/MWEAGK692){target="_blank"} ;
 
 > Lister dans un [mail], les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 

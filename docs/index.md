@@ -1146,7 +1146,7 @@ Correction DM HTML/CSS
         - `d4hy533r` pour l'activité n°2 ; 
         - `a9tmdc89` pour l'activité n°3 ;
 
-    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `MWEAGK692` sur PIX](https://app.pix.fr/campagnes/MWEAGK692?){target="_blank"} ;
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `MWEAGK692` sur PIX](https://app.pix.fr/campagnes/MWEAGK692){target="_blank"} ;
 
 === "TRAVAIL À FAIRE"
        
