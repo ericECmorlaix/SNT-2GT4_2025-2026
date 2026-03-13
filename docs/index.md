@@ -1137,6 +1137,32 @@ Correction DM HTML/CSS
     
 -->
 ***
+### Du 10/03
+
+=== "CONTENU DE SÉANCE"
+
+    
+    - Introduction aux IA Génératives basées sur des "Larges Languages Models" (LLM) :
+
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/4xq6bVbS-Pw?si=ygmL3jzvgq5Vm2XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+    - Correction du [Devoir Commun](./pdf/2026-DEVOIR_COMMUN_SNT.pdf) ; 
+   
+
+=== "TRAVAIL À FAIRE"      
+    
+    - **Compléter** votre initiation à la programmation Python sur :
+        - [Algorea](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0/task/task){target="_blank"} ;
+        - CodEx : [Créer une image](https://codex.forge.apps.education.fr/en_travaux/creer_image/){target="_blank"}, [Alien (1.1)](https://codex.forge.apps.education.fr/en_travaux/alien1.1/){target="_blank"}, [Alien (2.1)](https://codex.forge.apps.education.fr/en_travaux/alien2.1/){target="_blank"}, [Alien (3.1)](https://codex.forge.apps.education.fr/en_travaux/alien3.1/){target="_blank"}, [Alien (8) - Instructions imbriquées](https://codex.forge.apps.education.fr/en_travaux/alien8/){target="_blank"} ;
+        - [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){target="_blank"} ;
+        - et aller plus loin avec [W3schools](https://www.w3schools.com/python/default.asp){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages Python sur Capytale n°`ba7a-3864065`](https://capytale2.ac-paris.fr/web/c/ba7a-3864065){target=_blank} ;
+
+    - **Prolonger** votre [initiation aux langages HTML/CSS sur la Khanacademy](https://fr.khanacademy.org/computing/computer-programming/html-css){target="_blank"} et aller plus loin avec [W3schools](https://www.w3schools.com/html/default.asp){target="_blank"} ;
+    - [**Publier** votre site Web sur GitHub](./Web/github.md){target="_blank"} ;
+    > **Conserver** une trace de [vos apprentissages HTML-CSS sur Capytale n° 35cd-4096157](https://capytale2.ac-paris.fr/web/c/35cd-4096157){target=_blank} ;
+
+***
 ### Le 13/02
 
 === "CONTENU DE SÉANCE"
