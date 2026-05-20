@@ -923,6 +923,63 @@ Correction DM HTML/CSS
 
 -->
 ***
+
+## Du 22/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation ce vendredi 22 mai sur le thème de l'IA. _Je vous conseille donc de vous munir d'une feuille de copie et de bien relire en amont vos prises de notes réalisées sur ce sujet afin d'en retenir les notions clés..._
+
+        
+        <aside>
+        <iframe src="https://embed.radiofrance.fr/franceinter/diffusion/278a2540-c3a3-42e8-8076-40137fd3598f" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
+        <figcaption>France Inter - Comment bien utiliser l’IA en famille ?<br>émission "Grand bien vous fasse" du 20 mai 2026</figcaption>
+        <quote>Elles inquiètent et fascinent parce qu'elles changent nos manières d'apprendre et de créer… Comment bien utiliser Claude, ChatGPT et autres IA génératives à la maison ? Quels en sont les dangers et les pièges ? Peut-on intégrer l'IA générative de façon raisonnée dans notre quotidien ?        
+        <h4>Les invités :</h4>
+        <ul><li>Olivia Villamy, journaliste et cheffe de rubrique au magazine Okapi</li>
+        <li>Laurence Devillers, professeure en informatique et IA à Sorbonne Université, chercheuse au laboratoire LISN du CNRS, présidente de la Fondation Blaise Pascal, autrice de “Savoir vivre avec l’IA” (Denoël)</li>
+        <li>Sébastien Seguin, professeur certifié de technologie et de robotique au collège Saint-Félix Kerlois à Hennebont (Morbihan), auteur de “Apprivoiser l’IA en famille” (De Boeck Supérieur)</li></ul></quote>
+        </aside><br>
+        
+    
+    - **Finir** [le parcours ELEA de programmation IAssistée](https://bzh-29-nord.elea.apps.education.fr/course/section.php?id=22144){target="_blank"} et **rendre** votre projet dans :
+    
+        - [Un notebook pour restituer votre démarche de création sur Capytale n°`a600-11041210`](https://capytale2.ac-paris.fr/web/c/a600-11041210){target="_blank"} ;
+        - [Une application WEB pour restituer et tester votre jeu sur Capytale n°`0a25-11041393` ](https://capytale2.ac-paris.fr/web/c/0a25-11041393){target="_blank"} ;
+
+        > Les plus motivés peuvent également publier leur jeu sur GitHub en s'inpirant du tutoriel : <https://ericecmorlaix.github.io/SNT-2GT4_2025-2026/Web/github/>
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le notebook d'[introduction à l'Intelligence Artificielle sur Capytale n°`79b3-10163070`](https://capytale2.ac-paris.fr/web/c/79b3-10163070){target="_blank"} ;
+    
+    - **Développer** vos compétences en IA sur PIX :
+        - [Décrypter le fonctionnement et les enjeux de l'IA](https://app.pix.fr/parcours/QJEPVZ381){target="_blank"},
+        - [Utiliser l’IA générative de façon éclairée et efficace](https://app.pix.fr/parcours/UNMNZD975){target="_blank"} ;
+
+    - **Réaliser** les activités du parcours d'[initiation à l'IA en 2nde sur la plateforme Algoréa](https://parcours.algorea.org/fr/a/646969091839948273;p=4702,3654923452105390543,1487266182516918389;a=0){target="_blank"} ;    
+    
+    - **Poursuivre** la découverte de l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+     
+    - **Reproduire** l'expérience :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/q8-LhLKc8wY?si=kaVzTn_vQ3YFJYN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Intelligence artificielle-une machine qui apprend à jouer</figcaption>
+        </figure>
+        </center>
+
+    - **Comprendre** le fonctionnement d'IA génératives d'images :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tdelUss-5hY?si=uttHmOGh89SM-Ijj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Comment ces IA inventent-elles des images ?</figcaption>
+        </figure>
+        </center>
+
+***
 ## Du 19/03
 
 === "CONTENU DE SÉANCE"
