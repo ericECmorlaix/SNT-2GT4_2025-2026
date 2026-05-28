@@ -923,6 +923,22 @@ Correction DM HTML/CSS
 
 -->
 ***
+## Du 28/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Eléments de correction de l'évaluation écrite sur le thème de l'IA ;
+
+    - Tour d'horizon des projets de programmation IAssistée : [Puissance 4](https://lemenn-gabriel.github.io/Jeu_IA/){target="_blank"} ;
+
+    - Projets avec PyxelStudio :
+
+        - [Jeu d'aventure sur Capytale n°`7863-11143791`](https://capytale2.ac-paris.fr/web/c/7863-11143791){target=_blank} ;
+        - [Snake sur Capytale n°`f239-11143837`](https://capytale2.ac-paris.fr/web/c/f239-11143837){target=_blank} ;
+        - [Pong sur Capytale n°`e322-11143891`](https://capytale2.ac-paris.fr/web/c/e322-11143891){target=_blank} ;
+        - [Space Invaders sur Capytale n°`fac0-11145388`](https://capytale2.ac-paris.fr/web/c/fac0-11145388){target=_blank} ;
+        - [Les aliens attaquent !!! (version démo POO) sur Capytale n°`c568-11145357`](https://capytale2.ac-paris.fr/web/c/c568-11145357){target=_blank} ;
+***
 
 ## Du 22/05
 
